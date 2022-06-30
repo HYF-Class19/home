@@ -1,6 +1,6 @@
 <!-- BEGIN TOP -->
 
-# home: HYF-Class19
+# Home: HYF Class19
 
 > <details>
 > <summary>Tech Support</summary>
@@ -12,14 +12,14 @@
 - [Class Calendar](./assets/calendar.jpg)
 - Modules
   - [Quick Links](#modules)
-  - [Details](https://HackYourFutureBelgium.github.io/class-19/modules)
-  - [Study Board](https://github.com/HackYourFutureBelgium/class-19/projects/1)
+  - [Details](https://HYF-Class19.github.io/home/modules)
+  - [Study Board](https://github.com/HYF-Class19/home/projects/1)
 - [Discord](https://discord.com/channels/894607053367181402/991608592803319909)
-- [Issues](https://github.com/HackYourFutureBelgium/class-19/issues)
-- [Pull Requests](https://github.com/HackYourFutureBelgium/class-19/pulls)
+- [Issues](https://github.com/HYF-Class19/home/issues)
+- [Pull Requests](https://github.com/HYF-Class19/home/pulls)
 - People
   - [Learners](#learners) -
-    [Randomizer](https://HackYourFutureBelgium.github.io/class-19/randomizer)
+    [Randomizer](https://HYF-Class19.github.io/home/randomizer)
   - [Coaches](#coaches)
   - [Admins](#admins)
 - [Cheat Sheets](./cheat-sheets)
@@ -40,23 +40,23 @@ Learn to plan and build web applications as a team.
 
 ### [0. Precourse](https://github.com/hackyourfuturebelgium/precourse): 1 week
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"0.%20Precourse"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/1)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"0.%20Precourse"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/1)
 
 Set up your accounts and prepare your development environment.
 
 ### [1. Workflows](https://github.com/hackyourfuturebelgium/workflows): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"1.%20Workflows"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/2)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"1.%20Workflows"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/2)
 
 Learn the workflows you need to develop individually and in a group.
 
@@ -73,12 +73,12 @@ Learn the workflows you need to develop individually and in a group.
 
 ### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 4 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"2.%20Agile%20Development"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/3)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/3)
 
 Practice collaboratively planning and developing HTML/CSS websites.
 
@@ -105,12 +105,12 @@ Practice collaboratively planning and developing HTML/CSS websites.
 
 ### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"3.%20UX%2FUI%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/4)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"3.%20UX%2FUI%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/4)
 
 Explore design thinking process and placing your users at the center of your
 development process.
@@ -128,12 +128,12 @@ development process.
 
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"4.%20Welcome%20to%20JS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/5)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/5)
 
 Learn to read small programs, and to write code that other people can
 understand.
@@ -157,24 +157,24 @@ understand.
 
 ### [5. Inside JS](https://github.com/hackyourfuturebelgium/inside-js): 4 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"5.%20Inside%20JS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/6)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"5.%20Inside%20JS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/6)
 
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
 ### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/7)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/7)
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
@@ -196,72 +196,72 @@ to JS coding challenges.
 
 ### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/8)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"7.%20Separation%20of%20Concerns"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/8)
 
 Learn how to break down interactive web pages into clear tasks that can be
 shared divided across team.
 
 ### [8. Asynchronous Programming](https://github.com/hackyourfuturebelgium/asynchronous-programming): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"8.%20Asynchronous%20Programming"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/9)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"8.%20Asynchronous%20Programming"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/9)
 
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
 ### [9. Headless CMS](https://github.com/hackyourfuturebelgium/headless-cms): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"9.%20Headless%20CMS"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/10)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"9.%20Headless%20CMS"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/10)
 
 Learn what a Content Management System is and explore how you use one to model
 the data for your own web applications.
 
 ### [10. Component Based Design](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"10.%20Component%20Based%20Design"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/11)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"10.%20Component%20Based%20Design"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/11)
 
 Practice developing Single Page Apps built from reusable UI components, and
 explore your first Frontend Framework.
 
 ### [11. Individual Project](https://github.com/hackyourfuturebelgium/individual-project): 2 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"11.%20Individual%20Project"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/12)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"11.%20Individual%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/12)
 
 Prepare for the final project by individually designing, planning, building and
 deploying your own fullstack web app.
 
 ### [12. Final Project](https://github.com/hackyourfuturebelgium/final-project): 6 weeks
 
-> [check-ins](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
+> [check-ins](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Acheck-in)
 > |
-> [deliverables board](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
+> [deliverables board](https://github.com/HYF-Class19/home/projects/1?card_filter_query=milestone%3A"12.%20Final%20Project"+label%3Adeliverable)
 > |
-> [retros](https://github.com/lab-brussels-1/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
-> || [milestone](https://github.com/lab-brussels-1/home/milestone/13)
+> [retros](https://github.com/HYF-Class19/home/issues/?q=milestone%3A"12.%20Final%20Project"+label%3Aretro+label%3Acheck-in)
+> || [milestone](https://github.com/HYF-Class19/home/milestone/13)
 
 Put it all together! Work in teams to identify your target users and a
 real-world problem they face, then deliver a web app to meet their needs.
@@ -274,310 +274,324 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 ## Learners
 
-| <img src="./admin/assets/avatars/alexanderism55.png" height="200px" width="200px" alt="alexanderism55 avatar" /> | <h3 id="alexanderism55">Alexander</h3><br>[alexanderism55](https://github.com/alexanderism55) \| [home page](https://alexanderism55.github.io) \| [bio](./student-bios/alexanderism55.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aalexanderism55+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Aalexanderism55+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aalexanderism55+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Aalexanderism55) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Aalexanderism55) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Aalexanderism55) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Aalexanderism55) |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="./admin/assets/avatars/AnitaSharma2022.png" height="200px" width="200px" alt="AnitaSharma2022 avatar" /> | <h3 id="AnitaSharma2022">Anita</h3><br>[AnitaSharma2022](https://github.com/AnitaSharma2022) \| [home page](https://AnitaSharma2022.github.io) \| [bio](./student-bios/AnitaSharma2022.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AAnitaSharma2022+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AAnitaSharma2022+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AAnitaSharma2022+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AAnitaSharma2022) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AAnitaSharma2022) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AAnitaSharma2022) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AAnitaSharma2022) |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Alexander's github stats</summary>
+<summary>Anita's github stats</summary>
 <br>
 
-![alexanderism55 github activity](https://ghchart.rshah.org/alexanderism55)
+![AnitaSharma2022 github activity](https://ghchart.rshah.org/AnitaSharma2022)
 
-![alexanderism55 github stats](https://github-readme-stats.vercel.app/api?username=alexanderism55&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![AnitaSharma2022 github stats](https://github-readme-stats.vercel.app/api?username=AnitaSharma2022&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/alihaidermalik20.png" height="200px" width="200px" alt="alihaidermalik20 avatar" /> | <h3 id="alihaidermalik20">Ali Haider</h3><br>[alihaidermalik20](https://github.com/alihaidermalik20) \| [home page](https://alihaidermalik20.github.io) \| [bio](./student-bios/alihaidermalik20.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aalihaidermalik20+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Aalihaidermalik20+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aalihaidermalik20+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Aalihaidermalik20) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Aalihaidermalik20) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Aalihaidermalik20) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Aalihaidermalik20) |
-| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/bibhasingh.png" height="200px" width="200px" alt="bibhasingh avatar" /> | <h3 id="bibhasingh">Bibha</h3><br>[bibhasingh](https://github.com/bibhasingh) \| [home page](https://bibhasingh.github.io) \| [bio](./student-bios/bibhasingh.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Abibhasingh+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Abibhasingh+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Abibhasingh+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Abibhasingh) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Abibhasingh) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Abibhasingh) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Abibhasingh) |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Ali Haider's github stats</summary>
+<summary>Bibha's github stats</summary>
 <br>
 
-![alihaidermalik20 github activity](https://ghchart.rshah.org/alihaidermalik20)
+![bibhasingh github activity](https://ghchart.rshah.org/bibhasingh)
 
-![alihaidermalik20 github stats](https://github-readme-stats.vercel.app/api?username=alihaidermalik20&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![bibhasingh github stats](https://github-readme-stats.vercel.app/api?username=bibhasingh&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/andriivam.png" height="200px" width="200px" alt="andriivam avatar" /> | <h3 id="andriivam">Andrii</h3><br>[andriivam](https://github.com/andriivam) \| [home page](https://andriivam.github.io) \| [bio](./student-bios/andriivam.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aandriivam+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Aandriivam+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aandriivam+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Aandriivam) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Aandriivam) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Aandriivam) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Aandriivam) |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/galalkoro98.png" height="200px" width="200px" alt="galalkoro98 avatar" /> | <h3 id="galalkoro98">Galal</h3><br>[galalkoro98](https://github.com/galalkoro98) \| [home page](https://galalkoro98.github.io) \| [bio](./student-bios/galalkoro98.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Agalalkoro98+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Agalalkoro98+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Agalalkoro98+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Agalalkoro98) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Agalalkoro98) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Agalalkoro98) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Agalalkoro98) |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Andrii's github stats</summary>
+<summary>Galal's github stats</summary>
 <br>
 
-![andriivam github activity](https://ghchart.rshah.org/andriivam)
+![galalkoro98 github activity](https://ghchart.rshah.org/galalkoro98)
 
-![andriivam github stats](https://github-readme-stats.vercel.app/api?username=andriivam&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![galalkoro98 github stats](https://github-readme-stats.vercel.app/api?username=galalkoro98&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Carsiti.png" height="200px" width="200px" alt="Carsiti avatar" /> | <h3 id="Carsiti">Carsiti</h3><br>[Carsiti](https://github.com/Carsiti) \| [home page](https://Carsiti.github.io) \| [bio](./student-bios/Carsiti.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ACarsiti+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ACarsiti+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ACarsiti+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ACarsiti) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ACarsiti) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ACarsiti) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ACarsiti) |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/anasabbar.png" height="200px" width="200px" alt="anasabbar avatar" /> | <h3 id="anasabbar">Anass</h3><br>[anasabbar](https://github.com/anasabbar) \| [home page](https://anasabbar.github.io) \| [bio](./student-bios/anasabbar.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Aanasabbar+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Aanasabbar+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Aanasabbar+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Aanasabbar) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Aanasabbar) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Aanasabbar) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Aanasabbar) |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Carsiti's github stats</summary>
+<summary>Anass's github stats</summary>
 <br>
 
-![Carsiti github activity](https://ghchart.rshah.org/Carsiti)
+![anasabbar github activity](https://ghchart.rshah.org/anasabbar)
 
-![Carsiti github stats](https://github-readme-stats.vercel.app/api?username=Carsiti&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![anasabbar github stats](https://github-readme-stats.vercel.app/api?username=anasabbar&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/cristobal-lopez.png" height="200px" width="200px" alt="cristobal-lopez avatar" /> | <h3 id="cristobal-lopez">Cristobal</h3><br>[cristobal-lopez](https://github.com/cristobal-lopez) \| [home page](https://cristobal-lopez.github.io) \| [bio](./student-bios/cristobal-lopez.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Acristobal-lopez+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Acristobal-lopez+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Acristobal-lopez+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Acristobal-lopez) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Acristobal-lopez) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Acristobal-lopez) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Acristobal-lopez) |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="./admin/assets/avatars/Khalil-Zidan.png" height="200px" width="200px" alt="Khalil-Zidan avatar" /> | <h3 id="Khalil-Zidan">Khalil</h3><br>[Khalil-Zidan](https://github.com/Khalil-Zidan) \| [home page](https://Khalil-Zidan.github.io) \| [bio](./student-bios/Khalil-Zidan.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AKhalil-Zidan+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AKhalil-Zidan+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AKhalil-Zidan+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AKhalil-Zidan) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AKhalil-Zidan) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AKhalil-Zidan) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AKhalil-Zidan) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
-<summary>Cristobal's github stats</summary>
+<summary>Khalil's github stats</summary>
 <br>
 
-![cristobal-lopez github activity](https://ghchart.rshah.org/cristobal-lopez)
+![Khalil-Zidan github activity](https://ghchart.rshah.org/Khalil-Zidan)
 
-![cristobal-lopez github stats](https://github-readme-stats.vercel.app/api?username=cristobal-lopez&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Khalil-Zidan github stats](https://github-readme-stats.vercel.app/api?username=Khalil-Zidan&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Dnyandeo33.png" height="200px" width="200px" alt="Dnyandeo33 avatar" /> | <h3 id="Dnyandeo33">Dnyandeo</h3><br>[Dnyandeo33](https://github.com/Dnyandeo33) \| [home page](https://Dnyandeo33.github.io) \| [bio](./student-bios/Dnyandeo33.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ADnyandeo33+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ADnyandeo33+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ADnyandeo33+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ADnyandeo33) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ADnyandeo33) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ADnyandeo33) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ADnyandeo33) |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/HaykoDevelop.png" height="200px" width="200px" alt="HaykoDevelop avatar" /> | <h3 id="HaykoDevelop">Hayko</h3><br>[HaykoDevelop](https://github.com/HaykoDevelop) \| [home page](https://HaykoDevelop.github.io) \| [bio](./student-bios/HaykoDevelop.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHaykoDevelop+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AHaykoDevelop+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHaykoDevelop+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AHaykoDevelop) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AHaykoDevelop) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AHaykoDevelop) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AHaykoDevelop) |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Dnyandeo's github stats</summary>
+<summary>Hayko's github stats</summary>
 <br>
 
-![Dnyandeo33 github activity](https://ghchart.rshah.org/Dnyandeo33)
+![HaykoDevelop github activity](https://ghchart.rshah.org/HaykoDevelop)
 
-![Dnyandeo33 github stats](https://github-readme-stats.vercel.app/api?username=Dnyandeo33&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![HaykoDevelop github stats](https://github-readme-stats.vercel.app/api?username=HaykoDevelop&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/EliasMlopez99.png" height="200px" width="200px" alt="EliasMlopez99 avatar" /> | <h3 id="EliasMlopez99">Elías</h3><br>[EliasMlopez99](https://github.com/EliasMlopez99) \| [home page](https://EliasMlopez99.github.io) \| [bio](./student-bios/EliasMlopez99.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AEliasMlopez99+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AEliasMlopez99+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AEliasMlopez99+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AEliasMlopez99) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AEliasMlopez99) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AEliasMlopez99) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AEliasMlopez99) |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/Lemma-Barnabas.png" height="200px" width="200px" alt="Lemma-Barnabas avatar" /> | <h3 id="Lemma-Barnabas">Barnabas</h3><br>[Lemma-Barnabas](https://github.com/Lemma-Barnabas) \| [home page](https://Lemma-Barnabas.github.io) \| [bio](./student-bios/Lemma-Barnabas.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3ALemma-Barnabas+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3ALemma-Barnabas+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3ALemma-Barnabas+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3ALemma-Barnabas) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3ALemma-Barnabas) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3ALemma-Barnabas) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3ALemma-Barnabas) |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Elías's github stats</summary>
+<summary>Barnabas's github stats</summary>
 <br>
 
-![EliasMlopez99 github activity](https://ghchart.rshah.org/EliasMlopez99)
+![Lemma-Barnabas github activity](https://ghchart.rshah.org/Lemma-Barnabas)
 
-![EliasMlopez99 github stats](https://github-readme-stats.vercel.app/api?username=EliasMlopez99&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Lemma-Barnabas github stats](https://github-readme-stats.vercel.app/api?username=Lemma-Barnabas&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/FennyWilriani.png" height="200px" width="200px" alt="FennyWilriani avatar" /> | <h3 id="FennyWilriani">Fenny</h3><br>[FennyWilriani](https://github.com/FennyWilriani) \| [home page](https://FennyWilriani.github.io) \| [bio](./student-bios/FennyWilriani.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AFennyWilriani+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AFennyWilriani+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AFennyWilriani+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AFennyWilriani) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AFennyWilriani) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AFennyWilriani) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AFennyWilriani) |
-| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/nashmiab.png" height="200px" width="200px" alt="nashmiab avatar" /> | <h3 id="nashmiab">Nashmia</h3><br>[nashmiab](https://github.com/nashmiab) \| [home page](https://nashmiab.github.io) \| [bio](./student-bios/nashmiab.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Anashmiab+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Anashmiab+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Anashmiab+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Anashmiab) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Anashmiab) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Anashmiab) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Anashmiab) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Fenny's github stats</summary>
+<summary>Nashmia's github stats</summary>
 <br>
 
-![FennyWilriani github activity](https://ghchart.rshah.org/FennyWilriani)
+![nashmiab github activity](https://ghchart.rshah.org/nashmiab)
 
-![FennyWilriani github stats](https://github-readme-stats.vercel.app/api?username=FennyWilriani&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![nashmiab github stats](https://github-readme-stats.vercel.app/api?username=nashmiab&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/hadoan149.png" height="200px" width="200px" alt="hadoan149 avatar" /> | <h3 id="hadoan149">Ha</h3><br>[hadoan149](https://github.com/hadoan149) \| [home page](https://hadoan149.github.io) \| [bio](./student-bios/hadoan149.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Ahadoan149+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Ahadoan149+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Ahadoan149+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Ahadoan149) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Ahadoan149) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Ahadoan149) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Ahadoan149) |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/johnedelbi.png" height="200px" width="200px" alt="johnedelbi avatar" /> | <h3 id="johnedelbi">John</h3><br>[johnedelbi](https://github.com/johnedelbi) \| [home page](https://johnedelbi.github.io) \| [bio](./student-bios/johnedelbi.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Ajohnedelbi+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Ajohnedelbi+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Ajohnedelbi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Ajohnedelbi) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Ajohnedelbi) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Ajohnedelbi) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Ajohnedelbi) |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Ha's github stats</summary>
+<summary>John's github stats</summary>
 <br>
 
-![hadoan149 github activity](https://ghchart.rshah.org/hadoan149)
+![johnedelbi github activity](https://ghchart.rshah.org/johnedelbi)
 
-![hadoan149 github stats](https://github-readme-stats.vercel.app/api?username=hadoan149&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![johnedelbi github stats](https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Haneefa-Shaik.png" height="200px" width="200px" alt="Haneefa-Shaik avatar" /> | <h3 id="Haneefa-Shaik">Haneefa</h3><br>[Haneefa-Shaik](https://github.com/Haneefa-Shaik) \| [home page](https://Haneefa-Shaik.github.io) \| [bio](./student-bios/Haneefa-Shaik.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AHaneefa-Shaik+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AHaneefa-Shaik+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AHaneefa-Shaik+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AHaneefa-Shaik) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AHaneefa-Shaik) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AHaneefa-Shaik) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AHaneefa-Shaik) |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/juliadavydenko.png" height="200px" width="200px" alt="juliadavydenko avatar" /> | <h3 id="juliadavydenko">Julia</h3><br>[juliadavydenko](https://github.com/juliadavydenko) \| [home page](https://juliadavydenko.github.io) \| [bio](./student-bios/juliadavydenko.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Ajuliadavydenko+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Ajuliadavydenko+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Ajuliadavydenko+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Ajuliadavydenko) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Ajuliadavydenko) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Ajuliadavydenko) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Ajuliadavydenko) |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Haneefa's github stats</summary>
+<summary>Julia's github stats</summary>
 <br>
 
-![Haneefa-Shaik github activity](https://ghchart.rshah.org/Haneefa-Shaik)
+![juliadavydenko github activity](https://ghchart.rshah.org/juliadavydenko)
 
-![Haneefa-Shaik github stats](https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![juliadavydenko github stats](https://github-readme-stats.vercel.app/api?username=juliadavydenko&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/inna9Z.png" height="200px" width="200px" alt="inna9Z avatar" /> | <h3 id="inna9Z">Inna</h3><br>[inna9Z](https://github.com/inna9Z) \| [home page](https://inna9Z.github.io) \| [bio](./student-bios/inna9Z.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Ainna9Z+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Ainna9Z+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Ainna9Z+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Ainna9Z) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Ainna9Z) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Ainna9Z) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Ainna9Z) |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/renjani2022.png" height="200px" width="200px" alt="renjani2022 avatar" /> | <h3 id="renjani2022">Renjani</h3><br>[renjani2022](https://github.com/renjani2022) \| [home page](https://renjani2022.github.io) \| [bio](./student-bios/renjani2022.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Arenjani2022+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Arenjani2022+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Arenjani2022+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Arenjani2022) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Arenjani2022) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Arenjani2022) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Arenjani2022) |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Inna's github stats</summary>
+<summary>Renjani's github stats</summary>
 <br>
 
-![inna9Z github activity](https://ghchart.rshah.org/inna9Z)
+![renjani2022 github activity](https://ghchart.rshah.org/renjani2022)
 
-![inna9Z github stats](https://github-readme-stats.vercel.app/api?username=inna9Z&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![renjani2022 github stats](https://github-readme-stats.vercel.app/api?username=renjani2022&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/kiishiakande.png" height="200px" width="200px" alt="kiishiakande avatar" /> | <h3 id="kiishiakande">Kiishy</h3><br>[kiishiakande](https://github.com/kiishiakande) \| [home page](https://kiishiakande.github.io) \| [bio](./student-bios/kiishiakande.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Akiishiakande+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Akiishiakande+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Akiishiakande+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Akiishiakande) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Akiishiakande) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Akiishiakande) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Akiishiakande) |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/JohnOlutubo.png" height="200px" width="200px" alt="JohnOlutubo avatar" /> | <h3 id="JohnOlutubo">John</h3><br>[JohnOlutubo](https://github.com/JohnOlutubo) \| [home page](https://JohnOlutubo.github.io) \| [bio](./student-bios/JohnOlutubo.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AJohnOlutubo+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AJohnOlutubo+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AJohnOlutubo+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AJohnOlutubo) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AJohnOlutubo) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AJohnOlutubo) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AJohnOlutubo) |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Kiishy's github stats</summary>
+<summary>John's github stats</summary>
 <br>
 
-![kiishiakande github activity](https://ghchart.rshah.org/kiishiakande)
+![JohnOlutubo github activity](https://ghchart.rshah.org/JohnOlutubo)
 
-![kiishiakande github stats](https://github-readme-stats.vercel.app/api?username=kiishiakande&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![JohnOlutubo github stats](https://github-readme-stats.vercel.app/api?username=JohnOlutubo&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/MadhuMNG.png" height="200px" width="200px" alt="MadhuMNG avatar" /> | <h3 id="MadhuMNG">Madhu</h3><br>[MadhuMNG](https://github.com/MadhuMNG) \| [home page](https://MadhuMNG.github.io) \| [bio](./student-bios/MadhuMNG.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMadhuMNG+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMadhuMNG+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMadhuMNG+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMadhuMNG) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMadhuMNG) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMadhuMNG) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMadhuMNG) |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/Elya88.png" height="200px" width="200px" alt="Elya88 avatar" /> | <h3 id="Elya88">Elnura</h3><br>[Elya88](https://github.com/Elya88) \| [home page](https://Elya88.github.io) \| [bio](./student-bios/Elya88.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AElya88+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AElya88+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AElya88+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AElya88) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AElya88) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AElya88) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AElya88) |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
-<summary>Madhu's github stats</summary>
+<summary>Elnura's github stats</summary>
 <br>
 
-![MadhuMNG github activity](https://ghchart.rshah.org/MadhuMNG)
+![Elya88 github activity](https://ghchart.rshah.org/Elya88)
 
-![MadhuMNG github stats](https://github-readme-stats.vercel.app/api?username=MadhuMNG&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Elya88 github stats](https://github-readme-stats.vercel.app/api?username=Elya88&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/MahaLubbad.png" height="200px" width="200px" alt="MahaLubbad avatar" /> | <h3 id="MahaLubbad">Maha</h3><br>[MahaLubbad](https://github.com/MahaLubbad) \| [home page](https://MahaLubbad.github.io) \| [bio](./student-bios/MahaLubbad.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMahaLubbad+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMahaLubbad+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMahaLubbad+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMahaLubbad) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMahaLubbad) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMahaLubbad) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMahaLubbad) |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/AzimaKai.png" height="200px" width="200px" alt="AzimaKai avatar" /> | <h3 id="AzimaKai">Azima</h3><br>[AzimaKai](https://github.com/AzimaKai) \| [home page](https://AzimaKai.github.io) \| [bio](./student-bios/AzimaKai.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AAzimaKai+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AAzimaKai+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AAzimaKai+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AAzimaKai) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AAzimaKai) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AAzimaKai) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AAzimaKai) |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Maha's github stats</summary>
+<summary>Azima's github stats</summary>
 <br>
 
-![MahaLubbad github activity](https://ghchart.rshah.org/MahaLubbad)
+![AzimaKai github activity](https://ghchart.rshah.org/AzimaKai)
 
-![MahaLubbad github stats](https://github-readme-stats.vercel.app/api?username=MahaLubbad&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![AzimaKai github stats](https://github-readme-stats.vercel.app/api?username=AzimaKai&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/MMikhailova.png" height="200px" width="200px" alt="MMikhailova avatar" /> | <h3 id="MMikhailova">Maria</h3><br>[MMikhailova](https://github.com/MMikhailova) \| [home page](https://MMikhailova.github.io) \| [bio](./student-bios/MMikhailova.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMMikhailova+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMMikhailova+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMMikhailova+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMMikhailova) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMMikhailova) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMMikhailova) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMMikhailova) |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/MichaelMugaiga.png" height="200px" width="200px" alt="MichaelMugaiga avatar" /> | <h3 id="MichaelMugaiga">Michael</h3><br>[MichaelMugaiga](https://github.com/MichaelMugaiga) \| [home page](https://MichaelMugaiga.github.io) \| [bio](./student-bios/MichaelMugaiga.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AMichaelMugaiga+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AMichaelMugaiga+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AMichaelMugaiga+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AMichaelMugaiga) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AMichaelMugaiga) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AMichaelMugaiga) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AMichaelMugaiga) |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Maria's github stats</summary>
+<summary>Michael's github stats</summary>
 <br>
 
-![MMikhailova github activity](https://ghchart.rshah.org/MMikhailova)
+![MichaelMugaiga github activity](https://ghchart.rshah.org/MichaelMugaiga)
 
-![MMikhailova github stats](https://github-readme-stats.vercel.app/api?username=MMikhailova&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![MichaelMugaiga github stats](https://github-readme-stats.vercel.app/api?username=MichaelMugaiga&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Ufitamahoro.png" height="200px" width="200px" alt="Ufitamahoro avatar" /> | <h3 id="Ufitamahoro">Marie Josée</h3><br>[Ufitamahoro](https://github.com/Ufitamahoro) \| [home page](https://Ufitamahoro.github.io) \| [bio](./student-bios/Ufitamahoro.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AUfitamahoro+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AUfitamahoro+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AUfitamahoro) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AUfitamahoro) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AUfitamahoro) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AUfitamahoro) |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/IraLysenko.png" height="200px" width="200px" alt="IraLysenko avatar" /> | <h3 id="IraLysenko">Iryna</h3><br>[IraLysenko](https://github.com/IraLysenko) \| [home page](https://IraLysenko.github.io) \| [bio](./student-bios/IraLysenko.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AIraLysenko+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AIraLysenko+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AIraLysenko+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AIraLysenko) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AIraLysenko) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AIraLysenko) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AIraLysenko) |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Marie Josée's github stats</summary>
+<summary>Iryna's github stats</summary>
 <br>
 
-![Ufitamahoro github activity](https://ghchart.rshah.org/Ufitamahoro)
+![IraLysenko github activity](https://ghchart.rshah.org/IraLysenko)
 
-![Ufitamahoro github stats](https://github-readme-stats.vercel.app/api?username=Ufitamahoro&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![IraLysenko github stats](https://github-readme-stats.vercel.app/api?username=IraLysenko&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/minjupgeorge.png" height="200px" width="200px" alt="minjupgeorge avatar" /> | <h3 id="minjupgeorge">Minju</h3><br>[minjupgeorge](https://github.com/minjupgeorge) \| [home page](https://minjupgeorge.github.io) \| [bio](./student-bios/minjupgeorge.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aminjupgeorge+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Aminjupgeorge+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Aminjupgeorge+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Aminjupgeorge) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Aminjupgeorge) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Aminjupgeorge) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Aminjupgeorge) |
-| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/V-Valkiriya.png" height="200px" width="200px" alt="V-Valkiriya avatar" /> | <h3 id="V-Valkiriya">Valeriya</h3><br>[V-Valkiriya](https://github.com/V-Valkiriya) \| [home page](https://V-Valkiriya.github.io) \| [bio](./student-bios/V-Valkiriya.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AV-Valkiriya+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AV-Valkiriya+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AV-Valkiriya+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AV-Valkiriya) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AV-Valkiriya) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AV-Valkiriya) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AV-Valkiriya) |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Minju's github stats</summary>
+<summary>Valeriya's github stats</summary>
 <br>
 
-![minjupgeorge github activity](https://ghchart.rshah.org/minjupgeorge)
+![V-Valkiriya github activity](https://ghchart.rshah.org/V-Valkiriya)
 
-![minjupgeorge github stats](https://github-readme-stats.vercel.app/api?username=minjupgeorge&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![V-Valkiriya github stats](https://github-readme-stats.vercel.app/api?username=V-Valkiriya&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/NazgulM.png" height="200px" width="200px" alt="NazgulM avatar" /> | <h3 id="NazgulM">Nazgul</h3><br>[NazgulM](https://github.com/NazgulM) \| [home page](https://NazgulM.github.io) \| [bio](./student-bios/NazgulM.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ANazgulM+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ANazgulM+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ANazgulM+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ANazgulM) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ANazgulM) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ANazgulM) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ANazgulM) |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/thomas-ayissi.png" height="200px" width="200px" alt="thomas-ayissi avatar" /> | <h3 id="thomas-ayissi">Thomas</h3><br>[thomas-ayissi](https://github.com/thomas-ayissi) \| [home page](https://thomas-ayissi.github.io) \| [bio](./student-bios/thomas-ayissi.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Athomas-ayissi+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Athomas-ayissi+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Athomas-ayissi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Athomas-ayissi) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Athomas-ayissi) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Athomas-ayissi) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Athomas-ayissi) |
+| -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
-<summary>Nazgul's github stats</summary>
+<summary>Thomas's github stats</summary>
 <br>
 
-![NazgulM github activity](https://ghchart.rshah.org/NazgulM)
+![thomas-ayissi github activity](https://ghchart.rshah.org/thomas-ayissi)
 
-![NazgulM github stats](https://github-readme-stats.vercel.app/api?username=NazgulM&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![thomas-ayissi github stats](https://github-readme-stats.vercel.app/api?username=thomas-ayissi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/TheRick88.png" height="200px" width="200px" alt="TheRick88 avatar" /> | <h3 id="TheRick88">Ricardo</h3><br>[TheRick88](https://github.com/TheRick88) \| [home page](https://TheRick88.github.io) \| [bio](./student-bios/TheRick88.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ATheRick88+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3ATheRick88+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3ATheRick88+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3ATheRick88) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3ATheRick88) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3ATheRick88) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3ATheRick88) |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/BrianMunene96.png" height="200px" width="200px" alt="BrianMunene96 avatar" /> | <h3 id="BrianMunene96">Brian</h3><br>[BrianMunene96](https://github.com/BrianMunene96) \| [home page](https://BrianMunene96.github.io) \| [bio](./student-bios/BrianMunene96.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3ABrianMunene96+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3ABrianMunene96+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3ABrianMunene96+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3ABrianMunene96) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3ABrianMunene96) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3ABrianMunene96) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3ABrianMunene96) |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Ricardo's github stats</summary>
+<summary>Brian's github stats</summary>
 <br>
 
-![TheRick88 github activity](https://ghchart.rshah.org/TheRick88)
+![BrianMunene96 github activity](https://ghchart.rshah.org/BrianMunene96)
 
-![TheRick88 github stats](https://github-readme-stats.vercel.app/api?username=TheRick88&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![BrianMunene96 github stats](https://github-readme-stats.vercel.app/api?username=BrianMunene96&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Shewitttt.png" height="200px" width="200px" alt="Shewitttt avatar" /> | <h3 id="Shewitttt">Shewit</h3><br>[Shewitttt](https://github.com/Shewitttt) \| [home page](https://Shewitttt.github.io) \| [bio](./student-bios/Shewitttt.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AShewitttt+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AShewitttt+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AShewitttt+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AShewitttt) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AShewitttt) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AShewitttt) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AShewitttt) |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/Verousca.png" height="200px" width="200px" alt="Verousca avatar" /> | <h3 id="Verousca">Verusca</h3><br>[Verousca](https://github.com/Verousca) \| [home page](https://Verousca.github.io) \| [bio](./student-bios/Verousca.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AVerousca+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AVerousca+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AVerousca+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AVerousca) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AVerousca) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AVerousca) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AVerousca) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <details>
-<summary>Shewit's github stats</summary>
+<summary>Verusca's github stats</summary>
 <br>
 
-![Shewitttt github activity](https://ghchart.rshah.org/Shewitttt)
+![Verousca github activity](https://ghchart.rshah.org/Verousca)
 
-![Shewitttt github stats](https://github-readme-stats.vercel.app/api?username=Shewitttt&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Verousca github stats](https://github-readme-stats.vercel.app/api?username=Verousca&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/zerubabel4.png" height="200px" width="200px" alt="zerubabel4 avatar" /> | <h3 id="zerubabel4">Zerubabel</h3><br>[zerubabel4](https://github.com/zerubabel4) \| [home page](https://zerubabel4.github.io) \| [bio](./student-bios/zerubabel4.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Azerubabel4+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3Azerubabel4+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3Azerubabel4+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Azerubabel4) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Azerubabel4) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Azerubabel4) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Azerubabel4) |
-| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="./admin/assets/avatars/fala99.png" height="200px" width="200px" alt="fala99 avatar" /> | <h3 id="fala99">Filmon</h3><br>[fala99](https://github.com/fala99) \| [home page](https://fala99.github.io) \| [bio](./student-bios/fala99.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3Afala99+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3Afala99+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3Afala99+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Afala99) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Afala99) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Afala99) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Afala99) |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
-<summary>Zerubabel's github stats</summary>
+<summary>Filmon's github stats</summary>
 <br>
 
-![zerubabel4 github activity](https://ghchart.rshah.org/zerubabel4)
+![fala99 github activity](https://ghchart.rshah.org/fala99)
 
-![zerubabel4 github stats](https://github-readme-stats.vercel.app/api?username=zerubabel4&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![fala99 github stats](https://github-readme-stats.vercel.app/api?username=fala99&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
 
-| <img src="./admin/assets/avatars/Melati5.png" height="200px" width="200px" alt="Melati5 avatar" /> | <h3 id="Melati5">Zeynep</h3><br>[Melati5](https://github.com/Melati5) \| [home page](https://Melati5.github.io) \| [bio](./student-bios/Melati5.md)<br>[check-ins](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMelati5+label%3Acheck-in) \| [deliverables](https://github.com/lab-brussels-1/home/projects/1?card_filter_query=assignee%3AMelati5+label%3Adeliverable) \| [retros](https://github.com/lab-brussels-1/home/issues/?q=assignee%3AMelati5+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AMelati5) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AMelati5) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AMelati5) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AMelati5) |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/QasemMousavi.png" height="200px" width="200px" alt="QasemMousavi avatar" /> | <h3 id="QasemMousavi">Ghasem</h3><br>[QasemMousavi](https://github.com/QasemMousavi) \| [home page](https://QasemMousavi.github.io) \| [bio](./student-bios/QasemMousavi.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AQasemMousavi+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AQasemMousavi+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AQasemMousavi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AQasemMousavi) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AQasemMousavi) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AQasemMousavi) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AQasemMousavi) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <details>
-<summary>Zeynep's github stats</summary>
+<summary>Ghasem's github stats</summary>
 <br>
 
-![Melati5 github activity](https://ghchart.rshah.org/Melati5)
+![QasemMousavi github activity](https://ghchart.rshah.org/QasemMousavi)
 
-![Melati5 github stats](https://github-readme-stats.vercel.app/api?username=Melati5&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![QasemMousavi github stats](https://github-readme-stats.vercel.app/api?username=QasemMousavi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Helen-HYF.png" height="200px" width="200px" alt="Helen-HYF avatar" /> | <h3 id="Helen-HYF">Helen</h3><br>[Helen-HYF](https://github.com/Helen-HYF) \| [home page](https://Helen-HYF.github.io) \| [bio](./student-bios/Helen-HYF.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHelen-HYF+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AHelen-HYF+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHelen-HYF+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AHelen-HYF) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AHelen-HYF) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AHelen-HYF) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AHelen-HYF) |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Helen's github stats</summary>
+<br>
+
+![Helen-HYF github activity](https://ghchart.rshah.org/Helen-HYF)
+
+![Helen-HYF github stats](https://github-readme-stats.vercel.app/api?username=Helen-HYF&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 <hr style="width:60%;align:center">
@@ -588,41 +602,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- BEGIN COACHES -->
 
-## Coaches
-
-<table><tr><th> <img src="./admin/assets/avatars/Banjopalmo.png" height="200px" width="200px" alt="Banjopalmo avatar" /> </th><th> <h3 id="Banjopalmo">Benjamin</h3><br><a href="https://github.com/Banjopalmo">Banjopalmo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3ABanjopalmo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3ABanjopalmo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3ABanjopalmo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3ABanjopalmo">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/bermarte.png" height="200px" width="200px" alt="bermarte avatar" /> </th><th> <h3 id="bermarte">Bernardo</h3><br><a href="https://github.com/bermarte">bermarte</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Abermarte">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Abermarte">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Abermarte">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Abermarte">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/caterinamennito.png" height="200px" width="200px" alt="caterinamennito avatar" /> </th><th> <h3 id="caterinamennito">Caterina</h3><br><a href="https://github.com/caterinamennito">caterinamennito</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Acaterinamennito">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Acaterinamennito">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Acaterinamennito">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Acaterinamennito">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/jgoyvaerts.png" height="200px" width="200px" alt="jgoyvaerts avatar" /> </th><th> <h3 id="jgoyvaerts">Jonathan</h3><br><a href="https://github.com/jgoyvaerts">jgoyvaerts</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Ajgoyvaerts">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Ajgoyvaerts">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Ajgoyvaerts">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Ajgoyvaerts">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/Mamboleoo.png" height="200px" width="200px" alt="Mamboleoo avatar" /> </th><th> <h3 id="Mamboleoo">Louis</h3><br><a href="https://github.com/Mamboleoo">Mamboleoo</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3AMamboleoo">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3AMamboleoo">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3AMamboleoo">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3AMamboleoo">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/maeligg.png" height="200px" width="200px" alt="maeligg avatar" /> </th><th> <h3 id="maeligg">Maël</h3><br><a href="https://github.com/maeligg">maeligg</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Amaeligg">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Amaeligg">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Amaeligg">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Amaeligg">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/samirm00.png" height="200px" width="200px" alt="samirm00 avatar" /> </th><th> <h3 id="samirm00">Samir</h3><br><a href="https://github.com/samirm00">samirm00</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Asamirm00">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Asamirm00">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Asamirm00">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Asamirm00">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/talmurshidi.png" height="200px" width="200px" alt="talmurshidi avatar" /> </th><th> <h3 id="talmurshidi">Tamer</h3><br><a href="https://github.com/talmurshidi">talmurshidi</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Atalmurshidi">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Atalmurshidi">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Atalmurshidi">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Atalmurshidi">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/ThibaultLesuisse.png" height="200px" width="200px" alt="ThibaultLesuisse avatar" /> </th><th> <h3 id="ThibaultLesuisse">Thibault</h3><br><a href="https://github.com/ThibaultLesuisse">ThibaultLesuisse</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3AThibaultLesuisse">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3AThibaultLesuisse">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3AThibaultLesuisse">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3AThibaultLesuisse">mentioned</a><br> </th></tr></table>
-
-<table><tr><th> <img src="./admin/assets/avatars/unmeshvrije.png" height="200px" width="200px" alt="unmeshvrije avatar" /> </th><th> <h3 id="unmeshvrije">Unmesh</h3><br><a href="https://github.com/unmeshvrije">unmeshvrije</a><br><a href="https://github.com/lab-brussels-1/home/issues?q=author%3Aunmeshvrije">opened</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=assignee%3Aunmeshvrije">assigned</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=commenter%3Aunmeshvrije">commented</a> | <a href="https://github.com/lab-brussels-1/home/issues?q=mentions%3Aunmeshvrije">mentioned</a><br> </th></tr></table>
-
----
-
 <!-- END COACHES -->
 
 <!-- BEGIN ADMINS -->
 
 ## Admins
 
-| <img src="./admin/assets/avatars/danielhalasz.png" height="200px" width="200px" alt="danielhalasz avatar" /> | <h3 id="danielhalasz">Daniel</h3> <br>[danielhalasz](https://github.com/danielhalasz)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3Adanielhalasz) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3Adanielhalasz) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3Adanielhalasz) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3Adanielhalasz) |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="./admin/assets/avatars/yildiztugba.png" height="200px" width="200px" alt="yildiztugba avatar" /> | <h3 id="yildiztugba">Tugba</h3> <br>[yildiztugba](https://github.com/yildiztugba)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Ayildiztugba) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Ayildiztugba) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Ayildiztugba) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Ayildiztugba) |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-| <img src="./admin/assets/avatars/colevandersWands.png" height="200px" width="200px" alt="colevandersWands avatar" /> | <h3 id="colevandersWands">Evan</h3> <br>[colevandersWands](https://github.com/colevandersWands)<br>[opened](https://github.com/lab-brussels-1/home/issues?q=author%3AcolevandersWands) \| [assigned](https://github.com/lab-brussels-1/home/issues?q=assignee%3AcolevandersWands) \| [commented](https://github.com/lab-brussels-1/home/issues?q=commenter%3AcolevandersWands) \| [mentioned](https://github.com/lab-brussels-1/home/issues?q=mentions%3AcolevandersWands) |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./admin/assets/avatars/danielhalasz.png" height="200px" width="200px" alt="danielhalasz avatar" /> | <h3 id="danielhalasz">Daniel</h3> <br>[danielhalasz](https://github.com/danielhalasz)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3Adanielhalasz) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3Adanielhalasz) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3Adanielhalasz) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3Adanielhalasz) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+| <img src="./admin/assets/avatars/colevandersWands.png" height="200px" width="200px" alt="colevandersWands avatar" /> | <h3 id="colevandersWands">Evan</h3> <br>[colevandersWands](https://github.com/colevandersWands)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AcolevandersWands) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AcolevandersWands) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AcolevandersWands) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AcolevandersWands) |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
 
