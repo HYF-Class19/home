@@ -596,6 +596,20 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/Melati5.png" height="200px" width="200px" alt="Melati5 avatar" /> | <h3 id="Melati5">Zeynep</h3><br>[Melati5](https://github.com/Melati5) \| [home page](https://Melati5.github.io) \| [bio](./student-bios/Melati5.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AMelati5+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AMelati5+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AMelati5+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AMelati5) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AMelati5) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AMelati5) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AMelati5) |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Zeynep's github stats</summary>
+<br>
+
+![Melati5 github activity](https://ghchart.rshah.org/Melati5)
+
+![Melati5 github stats](https://github-readme-stats.vercel.app/api?username=Melati5&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
 ---
 
 <!-- END LEARNERS -->
