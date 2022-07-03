@@ -616,6 +616,12 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- BEGIN COACHES -->
 
+## Coaches
+
+<table><tr><th> <img src="./admin/assets/avatars/danielhalasz.png" height="200px" width="200px" alt="danielhalasz avatar" /> </th><th> <h3 id="danielhalasz">Daniel</h3><br><a href="https://github.com/danielhalasz">danielhalasz</a><br><a href="https://github.com/HYF-Class19/home/issues?q=author%3Adanielhalasz">opened</a> | <a href="https://github.com/HYF-Class19/home/issues?q=assignee%3Adanielhalasz">assigned</a> | <a href="https://github.com/HYF-Class19/home/issues?q=commenter%3Adanielhalasz">commented</a> | <a href="https://github.com/HYF-Class19/home/issues?q=mentions%3Adanielhalasz">mentioned</a><br> </th></tr></table>
+
+---
+
 <!-- END COACHES -->
 
 <!-- BEGIN ADMINS -->
