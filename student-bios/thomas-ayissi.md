@@ -18,4 +18,4 @@ To improve my skills :computer: and find a job.
 
 ## Image :camera:
 
-![This is a picture of Thomas.](hyf-pic-thomas.jpeg "This is a sample image of Thomas.").
+![This is a picture of Thomas.](pic-thomas-ayissi.jpeg "This is a sample image of Thomas.").
