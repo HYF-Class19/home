@@ -4,7 +4,7 @@
 
 :raised_hand: I am Thomas Ayissi
 
-## Places where I have lived :grey_question:
+## Places where I have lived ?
 
 Born and raised in this (sad) world
 
@@ -12,10 +12,10 @@ Born and raised in this (sad) world
 
 Sciences, Information/Communication and Code
 
-## Why learn code :grey_question:
+## Why learn code ?
 
 To improve my skills :computer: and find a job.
 
-## Image :camera:
+## :camera: Image
 
-![This is a picture of Thomas.](pic-thomas-ayissi.jpeg "This is a sample image of Thomas.").
+![This is a picture of Thomas.](pic-thomas-ayissi.jpeg 'This is a sample image of Thomas.').
