@@ -1,33 +1,33 @@
 export const learner = (
   { modules = {}, env = {}, org = {} },
-  { name = '', user = '', homePage = '' },
+  { name = "", user = "", homePage = "" }
 ) => {
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
 
   // --- scoped utilities for generating links ---
 
-  const projectSearch = (label = '', linkText = label, role = 'assignee') =>
+  const projectSearch = (label = "", linkText = label, role = "assignee") =>
     `[${linkText}](${repoURL}/projects/${modules.board}?card_filter_query=${role}%3A${user}+label%3A${label})`;
 
-  const issuesSearch = (label = [], linkText = label, role = 'assignee') =>
+  const issuesSearch = (label = [], linkText = label, role = "assignee") =>
     `[${linkText}](${repoURL}/issues/?q=${role}%3A${user}+${
       Array.isArray(label)
-        ? label.map((l) => `label%3A${l}`).join('+')
+        ? label.map((l) => `label%3A${l}`).join("+")
         : `label%3A${label}`
     })`;
 
   const aList = (...rows) =>
     rows
       .filter((row) => row.length > 0)
-      .map((row) => row.join(' \\| '))
-      .join('<br>');
+      .map((row) => row.join(" \\| "))
+      .join("<br>");
 
   // --- build the section ---
 
   const header = `<h3 id="${user}">${name}</h3>`;
 
   const avatar = `<img src="./${env.assetsPath.join(
-    '/',
+    "/"
   )}/avatars/${user}.png" height="200px" width="200px" alt="${user} avatar" />`;
 
   const discussionLinks = org.forum
@@ -43,10 +43,10 @@ export const learner = (
     `[bio](./student-bios/${user}.md)`,
   ];
   const classLinks = [
-    issuesSearch('check-in', 'check-ins'),
-    projectSearch('deliverable', 'deliverables'),
+    issuesSearch("check-in", "check-ins"),
+    projectSearch("deliverable", "deliverables"),
     // issuesSearch('roll-call', 'roll-calls', 'commenter'),
-    issuesSearch(['retro', 'check-in'], 'retros'),
+    issuesSearch(["retro", "check-in"], "retros"),
   ];
   const issuesLinks = [
     `[opened](${repoURL}/issues?q=author%3A${user})`,

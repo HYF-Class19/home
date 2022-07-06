@@ -1,14 +1,14 @@
-const nameToTitle = (name = '') =>
-  typeof name !== 'string'
-    ? ''
+const nameToTitle = (name = "") =>
+  typeof name !== "string"
+    ? ""
     : name
-        .split('-')
+        .split("-")
         .map((word) => word[0].toUpperCase() + word.slice(1))
-        .join(' ');
+        .join(" ");
 
 export const top = ({ env = {}, modules = {}, org = {} }) =>
-  `# ${env.repo ? nameToTitle(env.repo) : 'Study Repo'}: ${nameToTitle(
-    env.user,
+  `# ${env.repo ? nameToTitle(env.repo) : "Study Repo"}: ${nameToTitle(
+    env.user
   )}
 
 > <details>
@@ -28,11 +28,11 @@ export const top = ({ env = {}, modules = {}, org = {} }) =>
 ${
   org.forum
     ? `- [${
-        org.forum.includes('discord')
-          ? 'Discord'
-          : org.forum.includes('slack')
-          ? 'Slack'
-          : 'Forum'
+        org.forum.includes("discord")
+          ? "Discord"
+          : org.forum.includes("slack")
+          ? "Slack"
+          : "Forum"
       }](${org.forum})`
     : `- [Discussions](https://github.com/${env.user}/${env.repo}/discussions)`
 }

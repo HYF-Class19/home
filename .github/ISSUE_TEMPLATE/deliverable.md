@@ -1,7 +1,7 @@
 ---
 name: deliverable
 about: A template for deliverables issues
-title: 'Group Name or Your Name: Deliverable Name'
+title: "Group Name or Your Name: Deliverable Name"
 labels: deliverable
 ---
 

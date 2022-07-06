@@ -1,14 +1,14 @@
-import path from 'path';
+import path from "path";
 
-import { ENV } from '../../defaults.js';
+import { ENV } from "../../defaults.js";
 
 const keys = [
-  'user',
-  'repo',
-  'token',
-  'configPath',
-  'readmePath',
-  'assetsPath',
+  "user",
+  "repo",
+  "token",
+  "configPath",
+  "readmePath",
+  "assetsPath",
 ];
 
 export const compileEnv = (args = []) =>
@@ -21,8 +21,8 @@ export const compileEnv = (args = []) =>
           return null;
         }
 
-        const keylessArg = arg.replace(`${key}=`, '');
-        const value = key.includes('Path')
+        const keylessArg = arg.replace(`${key}=`, "");
+        const value = key.includes("Path")
           ? keylessArg.split(path.sep)
           : keylessArg;
 
@@ -31,5 +31,5 @@ export const compileEnv = (args = []) =>
         };
       })
       .filter((arg) => arg !== null)
-      .reduce((all, next) => Object.assign(all, next), {}),
+      .reduce((all, next) => Object.assign(all, next), {})
   );

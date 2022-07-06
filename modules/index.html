@@ -31,19 +31,19 @@
     <script id="utils">
       // const log = (thing) => (console.log(thing), thing);
 
-      const nameToTitle = (name = '') =>
-        typeof name !== 'string'
-          ? ''
+      const nameToTitle = (name = "") =>
+        typeof name !== "string"
+          ? ""
           : name
-              .split('-')
+              .split("-")
               .map((word) => word[0].toUpperCase() + word.slice(1))
-              .join(' ');
+              .join(" ");
 
-      const processRepoURL = async (repoURL = '') => {
-        const [owner, repo] = repoURL.split('/').slice(-2);
+      const processRepoURL = async (repoURL = "") => {
+        const [owner, repo] = repoURL.split("/").slice(-2);
 
         const res = await fetch(
-          `https://api.github.com/repos/${owner}/${repo}`,
+          `https://api.github.com/repos/${owner}/${repo}`
         );
 
         const { default_branch } = await res.json();
@@ -62,17 +62,17 @@
     <script id="components">
       const getReadme = (
         (readmeCache = {}) =>
-        async (repoURL = '') => {
+        async (repoURL = "") => {
           if (readmeCache[repoURL]) {
             return readmeCache[repoURL];
           }
 
           const { repoWithBranch, rawWithBranch } = await processRepoURL(
-            repoURL,
+            repoURL
           );
 
           const readmeMd = await fetch(`${rawWithBranch}/README.md`).then(
-            (res) => res.text(),
+            (res) => res.text()
           );
 
           const parsedReadme = marked.parse(readmeMd, {
@@ -80,8 +80,8 @@
             gfm: true,
           });
 
-          const readmeContainer = document.createElement('div');
-          readmeContainer.className = 'markdown-body';
+          const readmeContainer = document.createElement("div");
+          readmeContainer.className = "markdown-body";
           readmeContainer.innerHTML = parsedReadme;
 
           readmeCache[repoURL] = readmeContainer;
@@ -91,9 +91,9 @@
       )();
 
       const list = (elements = []) => {
-        const ul = document.createElement('ul');
+        const ul = document.createElement("ul");
         for (const element of elements) {
-          const li = document.createElement('li');
+          const li = document.createElement("li");
           li.appendChild(element);
           ul.appendChild(li);
         }
@@ -103,22 +103,22 @@
       const renderModuleItem = (module = {}) => {
         const { name, description, weeks, state, url } = module;
 
-        const moduleEl = document.createElement('text');
+        const moduleEl = document.createElement("text");
         moduleEl.innerHTML = name;
-        moduleEl.className = 'fake-link';
-        if (state === 'closed') {
-          moduleEl.style.textDecoration = 'line-through';
+        moduleEl.className = "fake-link";
+        if (state === "closed") {
+          moduleEl.style.textDecoration = "line-through";
         }
         moduleEl.id = url;
 
-        moduleEl.addEventListener('click', (event) => {
+        moduleEl.addEventListener("click", (event) => {
           event.preventDefault;
-          moduleEl.style.color = 'firebrick';
+          moduleEl.style.color = "firebrick";
           moduleEl.dispatchEvent(
-            new CustomEvent('select-module', {
+            new CustomEvent("select-module", {
               bubbles: true,
               detail: module,
-            }),
+            })
           );
         });
 
@@ -134,24 +134,24 @@
       const swapModules = async (module = {}) => {
         const { url, name } = module;
 
-        const readmeContainer = document.getElementById('readme-container');
+        const readmeContainer = document.getElementById("readme-container");
 
-        readmeContainer.innerHTML = '';
+        readmeContainer.innerHTML = "";
         readmeContainer.appendChild(await getReadme(url));
 
         const href = new URL(window.location.href);
-        href.searchParams.set('module', encodeURIComponent(name));
-        window.history.pushState('', '', href);
+        href.searchParams.set("module", encodeURIComponent(name));
+        window.history.pushState("", "", href);
       };
 
       const navigateModule = async () => {
         const currentUrl = window.location.href;
 
         const navigateToName = decodeURIComponent(
-          new URL(currentUrl).searchParams.get('module'),
+          new URL(currentUrl).searchParams.get("module")
         );
         const navigateTo = state.modules.path.find(
-          (module) => module.name === navigateToName,
+          (module) => module.name === navigateToName
         );
 
         if (navigateTo) {
@@ -161,13 +161,13 @@
     </script>
 
     <script type="module" id="init">
-      import { load } from './lib/js-yaml.js';
+      import { load } from "./lib/js-yaml.js";
 
       (async () => {
         try {
           const [modulesYaml, orgYaml] = await Promise.all([
-            fetch('../admin/modules.yml').then((res) => res.text()),
-            fetch('../admin/org.yml').then((res) => res.text()),
+            fetch("../admin/modules.yml").then((res) => res.text()),
+            fetch("../admin/org.yml").then((res) => res.text()),
           ]);
 
           state.modules = load(modulesYaml);
@@ -175,14 +175,14 @@
 
           // -- title --
 
-          const pageName = nameToTitle(state.info.name) + ': modules';
+          const pageName = nameToTitle(state.info.name) + ": modules";
           document.title = pageName;
 
           // -- initialize UI --
 
-          const sidebarContainer = document.getElementById('sidebar-container');
+          const sidebarContainer = document.getElementById("sidebar-container");
 
-          const sideBarHeader = document.createElement('h2');
+          const sideBarHeader = document.createElement("h2");
           sideBarHeader.innerHTML = pageName;
           sidebarContainer.appendChild(sideBarHeader);
 
@@ -190,14 +190,14 @@
           const modulesList = list(renderedModuleItems);
           sidebarContainer.appendChild(modulesList);
 
-          sidebarContainer.addEventListener('select-module', selectModule);
+          sidebarContainer.addEventListener("select-module", selectModule);
 
-          window.addEventListener('popstate', navigateModule);
+          window.addEventListener("popstate", navigateModule);
 
           // -- render initial module --
 
           const firstOpenModule = state.modules.path.find(
-            (module) => module.state !== 'closed',
+            (module) => module.state !== "closed"
           );
 
           if (firstOpenModule) {

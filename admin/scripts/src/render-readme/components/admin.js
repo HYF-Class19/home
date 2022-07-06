@@ -1,19 +1,19 @@
 export const admin = (
   { env = {}, org = {} },
-  { name = '', user = '', homePage = '' },
+  { name = "", user = "", homePage = "" }
 ) => {
   const repoURL = `https://github.com/${env.user}/${env.repo}`;
 
   // --- scoped utilities for generating links ---
 
-  const aList = (...rows) => rows.map((row) => row.join(' \\| ')).join('<br>');
+  const aList = (...rows) => rows.map((row) => row.join(" \\| ")).join("<br>");
 
   // --- build the section ---
 
   const header = `<h3 id="${user || name}">${name}</h3>`;
 
   const avatar = `<img src="./${env.assetsPath.join(
-    '/',
+    "/"
   )}/avatars/${user}.png" height="200px" width="200px" alt="${user} avatar" />`;
 
   const selfLinks = [`[${user}](https://github.com/${user})`];
@@ -22,7 +22,7 @@ export const admin = (
   }
   if (!org.forum) {
     selfLinks.push(
-      `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`,
+      `<a href="${repoURL}/discussions?discussions_q=involves%3A${user}">discussions</a>`
     );
   }
 

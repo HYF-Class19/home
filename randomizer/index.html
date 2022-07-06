@@ -132,8 +132,8 @@
       const groupsToParams = (groups) =>
         encodeURIComponent(
           groups
-            .map((group) => group.map((learner) => learner.user).join(','))
-            .join('+'),
+            .map((group) => group.map((learner) => learner.user).join(","))
+            .join("+")
         );
 
       /**
@@ -141,14 +141,12 @@
        */
       const paramsToGroups = (params) => {
         const decodedParams = decodeURIComponent(params);
-        const groupStrings = decodedParams.split('+');
+        const groupStrings = decodedParams.split("+");
         const userArrays = groupStrings.map((groupString) =>
-          groupString.split(','),
+          groupString.split(",")
         );
         const parsedGroups = userArrays.map((users) =>
-          users.map((user) =>
-            learners.find((learner) => learner.user === user),
-          ),
+          users.map((user) => learners.find((learner) => learner.user === user))
         );
         return parsedGroups;
       };
@@ -164,7 +162,7 @@
         <div class="group">
           <h3>Group ${index + 1}</h3>
           <ul>
-            ${group.map((learner) => renderStudent(learner)).join('')}
+            ${group.map((learner) => renderStudent(learner)).join("")}
           </ul>
         </div>
       `;
@@ -173,7 +171,7 @@
        * renders a groups array into a list of names linking to github accounts
        */
       const renderGroups = (groups) =>
-        groups.map((group, index) => renderGroup(group, index)).join('');
+        groups.map((group, index) => renderGroup(group, index)).join("");
     </script>
 
     <script id="procedures">
@@ -188,8 +186,8 @@
 
         window.history.replaceState(
           {},
-          '',
-          `${href.origin + href.pathname}?${params}`,
+          "",
+          `${href.origin + href.pathname}?${params}`
         );
       };
     </script>
@@ -203,7 +201,7 @@
        */
       const randomizeHandler = (groupsEl) => (event) => {
         const target = event.target;
-        if (target.name !== 'generate') {
+        if (target.name !== "generate") {
           return;
         }
 
@@ -211,7 +209,7 @@
         const sortType = target.form.sortType.value;
 
         const newGroups =
-          sortType === 'numberOfGroups'
+          sortType === "numberOfGroups"
             ? byNumberOfGroups(learners, numberOf)
             : byGroupSize(learners, numberOf);
 
@@ -227,29 +225,29 @@
        */
       const copyGroups = (event) => {
         const target = event.target;
-        if (target.name !== 'clipboard') {
+        if (target.name !== "clipboard") {
           return;
         }
 
         const number = Number(target.form.number.value);
         const sortType = target.form.sortType.value;
         const subTitle =
-          sortType === 'groupSize' ? `groups of ${number}` : `${number} groups`;
+          sortType === "groupSize" ? `groups of ${number}` : `${number} groups`;
 
         const textToCopy =
-          `# ${info.name.split('-').join(' ')}: ${subTitle}\n\n` +
+          `# ${info.name.split("-").join(" ")}: ${subTitle}\n\n` +
           groups
             .map(
               (group, index) =>
                 `## group ${index + 1}\n\n${group
                   .map((member) => `- ${member.name}\n`)
-                  .join('')}\n`,
+                  .join("")}\n`
             )
-            .join('');
+            .join("");
 
         navigator.clipboard.writeText(textToCopy);
 
-        setTimeout(() => alert('the groups are copied'), 0);
+        setTimeout(() => alert("the groups are copied"), 0);
       };
 
       /**
@@ -257,7 +255,7 @@
        */
       const downloadGroups = (event) => {
         const target = event.target;
-        if (target.name !== 'download') {
+        if (target.name !== "download") {
           return;
         }
 
@@ -265,27 +263,27 @@
         const sortType = target.form.sortType.value;
 
         const subTitle =
-          sortType === 'groupSize' ? `groups of ${number}` : `${number} groups`;
+          sortType === "groupSize" ? `groups of ${number}` : `${number} groups`;
 
-        const filename = `${info.name}--${subTitle.replaceAll(' ', '-')}.md`;
+        const filename = `${info.name}--${subTitle.replaceAll(" ", "-")}.md`;
 
         const groupsText =
-          `# ${info.name.split('-').join(' ')}: ${subTitle}\n\n` +
+          `# ${info.name.split("-").join(" ")}: ${subTitle}\n\n` +
           groups
             .map(
               (group, index) =>
                 `## group ${index + 1}\n\n${group
                   .map((member) => `- ${member.name}\n`)
-                  .join('')}\n`,
+                  .join("")}\n`
             )
-            .join('');
+            .join("");
 
-        const element = document.createElement('a');
-        element.setAttribute('download', filename);
-        element.style.display = 'none';
+        const element = document.createElement("a");
+        element.setAttribute("download", filename);
+        element.style.display = "none";
         element.setAttribute(
-          'href',
-          'data:text/plain;charset=utf-8,' + encodeURIComponent(groupsText),
+          "href",
+          "data:text/plain;charset=utf-8," + encodeURIComponent(groupsText)
         );
 
         document.body.appendChild(element);
@@ -295,64 +293,64 @@
     </script>
 
     <script type="module" id="init">
-      import { load } from './js-yaml.js';
+      import { load } from "./js-yaml.js";
 
       (async () => {
         try {
           const [learnersYaml, orgYaml] = await Promise.all([
-            fetch('../admin/learners.yml').then((res) => res.text()),
-            fetch('../admin/org.yml').then((res) => res.text()),
+            fetch("../admin/learners.yml").then((res) => res.text()),
+            fetch("../admin/org.yml").then((res) => res.text()),
           ]);
 
           learners = load(learnersYaml);
           info = load(orgYaml);
 
           // -- title & header --
-          const pageName = info.name + ' randomizer';
+          const pageName = info.name + " randomizer";
           document.title = pageName;
-          document.getElementById('header').innerHTML = pageName;
+          document.getElementById("header").innerHTML = pageName;
 
           // -- render the number of learners --
           document.getElementById(
-            'number-of-learners',
+            "number-of-learners"
           ).innerHTML = `there are ${learners.length} learners:`;
 
           // -- make sure there are learners in the class before going on --
           if (learners.length === 0) {
-            document.getElementById('groups').innerHTML =
-              '<p>no learners in this class</p>';
-            form.number.setAttribute('max', 0);
+            document.getElementById("groups").innerHTML =
+              "<p>no learners in this class</p>";
+            form.number.setAttribute("max", 0);
             return;
           }
 
           // -- initialize form --
-          const form = document.getElementById('randomizer-form');
+          const form = document.getElementById("randomizer-form");
 
           // form values
-          form.number.setAttribute('max', learners.length);
-          form.number.setAttribute('min', 1);
+          form.number.setAttribute("max", learners.length);
+          form.number.setAttribute("min", 1);
           form.number.setAttribute(
-            'value',
-            href.searchParams.get('number') || 1,
+            "value",
+            href.searchParams.get("number") || 1
           );
 
-          const sortType = href.searchParams.get('sortType');
-          if (sortType === 'numberOfGroups') {
-            document.getElementById('numberOf').checked = true;
-          } else if (sortType === 'groupSize') {
-            document.getElementById('sizeOf').checked = true;
+          const sortType = href.searchParams.get("sortType");
+          if (sortType === "numberOfGroups") {
+            document.getElementById("numberOf").checked = true;
+          } else if (sortType === "groupSize") {
+            document.getElementById("sizeOf").checked = true;
           }
 
           // form listeners
-          const groupsEl = document.getElementById('groups');
+          const groupsEl = document.getElementById("groups");
           const generateGroups = randomizeHandler(groupsEl);
-          form.addEventListener('click', generateGroups);
-          form.addEventListener('click', downloadGroups);
-          form.addEventListener('click', copyGroups);
+          form.addEventListener("click", generateGroups);
+          form.addEventListener("click", downloadGroups);
+          form.addEventListener("click", copyGroups);
 
           // -- initialize groups --
 
-          const serializedGroups = href.searchParams.get('groups');
+          const serializedGroups = href.searchParams.get("groups");
           groups = serializedGroups
             ? paramsToGroups(serializedGroups)
             : [learners];

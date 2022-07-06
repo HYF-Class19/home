@@ -11,7 +11,9 @@
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ ",
     "update:people": "node ./admin/scripts/bin/update-collaborators.js && node ./admin/scripts/bin/render-readme.js",
     "update:modules": "node ./admin/scripts/bin/update-modules.js && node ./admin/scripts/bin/render-readme.js",
-    "update:readme": "node ./admin/scripts/bin/render-readme.js"
+    "update:readme": "node ./admin/scripts/bin/render-readme.js",
+    "prepare": "husky install",
+    "scriptname": "cmd"
   },
   "repository": {
     "type": "git",
@@ -26,12 +28,17 @@
   "devDependencies": {
     "@ls-lint/ls-lint": "^1.11.2",
     "cspell": "^5.21.2",
+    "husky": "^8.0.1",
     "js-yaml": "^4.1.0",
+    "lint-staged": "^13.0.3",
     "markdownlint-cli": "^0.31.1",
     "node-fetch": "^3.2.6",
-    "prettier": "^2.7.1"
+    "prettier": "2.7.1"
   },
   "dependencies": {
     "i": "^0.3.7"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   }
 }
