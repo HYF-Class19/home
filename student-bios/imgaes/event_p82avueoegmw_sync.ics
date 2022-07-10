@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Recruitee//Recruitee Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20220708T113000Z
+DTEND:20220708T115000Z
+CREATED:20220704T125953Z
+DTSTAMP:20220704T125958Z
+ORGANIZER;CN=Dries Baert:MAILTO:dries@switchfully.com
+SUMMARY:Galal KORO - Phone interview
+DESCRIPTION:Phone interview\nCandidate: Galal KORO\nInterviewers: Dries Ba
+ ert\nEvent: https://switchfully.recruitee.com/v/events/p82avueoegmw
+LOCATION:
+URL:https://switchfully.recruitee.com/v/events/p82avueoegmw
+UID:p82avueoegmw@recruitee.com
+END:VEVENT
+END:VCALENDAR
