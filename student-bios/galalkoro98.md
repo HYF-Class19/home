@@ -5,11 +5,11 @@ looking ahead to the next task at hand. Successfully completing one project and
 moving on to the next one is very exciting for me. I am passionate about IT
 truly enjoy learning.
 
-<!--![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)-->
+![alt](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
-<!--# My current goals to achieve-->
+## My current goals to achieve
 
-## I currently folow course by _Hack Your Future Belgium_ as front-end web developer
+### I currently folow course by _Hack Your Future Belgium_ as front-end web developer
 
 ![Agile Development](/student-bios/images/agile.png)
 ![UX/UI DESIGN](/student-bios/images/ux.png)
@@ -27,7 +27,7 @@ truly enjoy learning.
 - 💁I am more than happy to help you if you are facing problem with oprating
   systems
 
-### My List
+#### My List
 
 - [x] Goals. It should be no surprise that goals motivate us and inspire us.
 - [x] Choosing to learn something new every day will give you a reason to grown
