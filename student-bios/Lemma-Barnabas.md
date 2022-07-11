@@ -13,5 +13,4 @@ Even though i had my first test of **OOP** in *Pythone* a couple of years before
 - Shel *Scripting*
 - JQuery
 
-
  [**Checkout my LinkedIn address**](lsjslslsl)  
