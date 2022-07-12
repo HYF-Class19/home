@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, js @ _Hack Your Future_ Belgium.
-- 👯 I’m looking to collaborate on github[https://github.com/MichaelMugaiga]().
+- 👯 I’m looking to collaborate on [github](https://github.com/MichaelMugaiga).
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/michaelmugaiga/)
 
 ## My 9 months bootcamp training agendaµ
