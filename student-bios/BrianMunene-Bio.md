@@ -34,3 +34,7 @@ I am currently learning **Front-End Web Development** at ***HackYourFuture Belgi
 Since my arrival in Belgium, I couldn;t help but notice how easier it was find ***information and government services*** online as compared to back home. Therefore, in the long-run, I hope to contribute in providing Kenyans with  ***access*** to crucial ***information and services*** through   ***user-friendly websites and Web-Apps***. The road ahead might be difficult, but as it is commonly said;
 
 >You DON'T come this far, only to come this far! 😉
+
+### Let's connect 📲
+
+[Instagram](https://www.instagram.com/brajah_munene/?hl=en)
