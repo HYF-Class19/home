@@ -8,7 +8,7 @@ Curious to learn more about these amazing countries?
 - [Kenya](https://en.wikipedia.org/wiki/Kenya)
 - [Belgium](https://en.wikipedia.org/wiki/Belgium)
 
-## Lets talk Tech'!'
+## Lets talk Tech
 
 I am currently learning **Front-End Web Development** at **_HackYourFuture
 Belgium_**. Some of our learnings include;
