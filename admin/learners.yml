@@ -1,48 +1,44 @@
-- name: Anita
-  user: AnitaSharma2022
-- name: Bibha
-  user: bibhasingh
-- name: Galal
-  user: galalkoro98
 - name: Anass
   user: anasabbar
-- name: Khalil
-  user: Khalil-Zidan
-- name: Hayko
-  user: HaykoDevelop
-- name: Barnabas
-  user: Lemma-Barnabas
-- name: Nashmia
-  user: nashmiab
-- name: John
-  user: johnedelbi
-- name: Julia
-  user: juliadavydenko
-- name: Renjani
-  user: renjani2022
-- name: John
-  user: JohnOlutubo
-- name: Elnura
-  user: Elya88
+- name: Anita
+  user: AnitaSharma2022
 - name: Azima
   user: AzimaKai
-- name: Michael
-  user: MichaelMugaiga
-- name: Iryna
-  user: IraLysenko
-- name: Valeriya
-  user: V-Valkiriya
-- name: Thomas
-  user: thomas-ayissi
+- name: Barnabas
+  user: Lemma-Barnabas
+- name: Bibha
+  user: bibhasingh
 - name: Brian
   user: BrianMunene96
-- name: Verusca
-  user: Verousca
+- name: Elnura
+  user: Elya88
 - name: Filmon
   user: filmon-goitom
+- name: Galal
+  user: galalkoro98
 - name: Ghasem
   user: QasemMousavi
+- name: Hayko
+  user: HaykoDevelop
 - name: Helen
   user: Helen-HYF
+- name: Inna
+  user: inna9Z
+- name: John Edelbi
+  user: johnedelbi
+- name: John Olutubo
+  user: JohnOlutubo
+- name: Michael
+  user: MichaelMugaiga
+- name: Nashmia
+  user: nashmiab
+- name: Renjani
+  user: renjani2022
+- name: Thomas
+  user: thomas-ayissi
+- name: Valeriya
+  user: V-Valkiriya
+- name: Verusca
+  user: Verousca
 - name: Zeynep
   user: Melati5
