@@ -1,5 +1,7 @@
 # Hi, I’m Galal
 
+![galal picture](/student-bios/images/galal.jpg)
+
 I know that I am self-motivated. I give my all to any project and am always
 looking ahead to the next task at hand. Successfully completing one project and
 moving on to the next one is very exciting for me. I am passionate about IT
