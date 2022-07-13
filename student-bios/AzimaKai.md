@@ -1,11 +1,8 @@
-👋 Hi, I’m Azima 👀 I’m interested in many kind of **science** and ofc in
-programming 🌱 I’m currently learning
+👋 Hi, I’m Azima <br> 👀 I’m interested in many kind of **science** and ofc in
+programming <br> 🌱 I’m currently learning
 
 ```html
-<h1>
-  Hello HYF
-  <h1></h1>
-</h1>
+<h1>Hello HYF</h1>
 ```
 
 ```css
@@ -20,4 +17,4 @@ console.log('hey');
 
 at `Hack Your Future`
 
-💞️ love to meditate and do yoga, and :coffee: for sure :smile:
+💞️ Love to meditate and do yoga, and :coffee: for sure :smile:
