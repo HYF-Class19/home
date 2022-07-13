@@ -15,6 +15,7 @@ company.
 1. python
 2. php
 3. sql
+4. AI
 
 ### my hobbies
 
