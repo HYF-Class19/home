@@ -1,37 +1,40 @@
 # Introduction:
 
-My name is John and I come from Syria. I live in Brussels. I am generally interested in technology, finance, crypto, and the stock market.
+i'm John and I from Syria - Aleppo . I move to Brussels since 6 years.
 
-### The social situation:
-I have been married for 10 years and I have two kids
-1. Celina has 6 years. :girl:
-2. Cristelle has 9 months now. :baby:
+## My interests:
 
-### my hobbies
-* reading 
-* swimming
-* plant care
-* Technology
+I am generally interested in technology, finance, crypto, and the stock market.
 
-here is a photo of me in Brussels last summer: :metal: 
+so I am learning Front-End Web Development at HackYourFuture so i can mix my
+experiences to start my own fintech company or to find a job in a fintech
+company.
 
-![john at Castle of Laeken ](https://jedelbi.com/HYF/John_Edelbi.jpg)
+## My Goal list after finish HYF is to learn:
 
+1. python
+2. php
+3. sql
 
-> **Note**: you can find the google map location by clicking [here](https://goo.gl/maps/HJqTEgcB6vERrHkz8).
+### my hobbies:
 
-### Language:
-|**language**|**level**|
-|:----------:|:-------:|
-|Arabic      |5/5      |
-|English     |4/5      |
-|French      |3/5      |
-|Netherlands |1/5      |
+- reading
+- Technology
+- plants care & aquascaping
+- swimming
 
-#### Goal list for next 5 years:
-- [x] **start studying.**
-- [ ] **finished studying.**
-- [ ] **find a job.**
-- [ ] **Specialization in User Experience and User Interfaces.**
-- [ ] *Do exercise regularly.*
-- [ ] *Travel to 5 new countries.*
+here is a photo of me in Brussels last summer: :metal:
+
+![john at Castle of Laeken ](images/JohnEdelbi.jpg)
+
+> **P.S**: you can find the google map location by clicking
+> [here](https://goo.gl/maps/HJqTEgcB6vERrHkz8).
+
+### Languages I speak:
+
+| **language** | **level** |
+| :----------: | :-------: |
+|    Arabic    |    5/5    |
+|   English    |    4/5    |
+|    French    |    3/5    |
+| Netherlands  |    1/5    |
