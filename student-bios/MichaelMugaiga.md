@@ -10,7 +10,7 @@
 ![Agile Development](/student-bios/images/agile.png)
 ![UX/UI DESIGN](/student-bios/images/ux.png)
 ![JavaScript](/student-bios/images/javascript.png)
-![Behavior, strategy, implementation](//student-bios/images/implementation.png)
+![Behavior, strategy, implementation](/student-bios/images/implementation.png)
 ![Separation of Concern](/student-bios/images/separation.png)
 ![Asychronous Programming](/student-bios/images/asyc.png)
 ![Headless CMS](/student-bios/images/cms.png)
