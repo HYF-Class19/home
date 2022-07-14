@@ -1,8 +1,8 @@
-## Introduction
+# Introduction
 
 Hi, I'm Renjani!
 
-```
+```About me:
 - Indonesian living in Belgium
 - Learning coding in HYF
 - Passionate learner
