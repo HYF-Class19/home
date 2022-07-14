@@ -1,1 +1,3 @@
-# Hi GHasem
+# Hi
+
+## Hello, my name is Qasim and welcome to my bio. Let me tell you a little about myself so that you can get to know me better. I am a musician and I play guitar and sing. I am very interested in music, computer and technology and I consider helping others very important. I want to become a web developer so that I can design a site for myself and create a site to help those who have just come to Belgium so that they can get to know Belgium better and plan their lives. I hope that in the future I will be able to make more conceptual and useful sites so that others can use them. I have been living in Belgium for almost 7 years and I was facing many problems and I would like those who come like me not to face them and find their life path sooner and turn it into success. Thank you so much for reading my bio. I wish you the best
