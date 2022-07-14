@@ -1,12 +1,12 @@
 # Hello :wave:
 
-# **Name**: Bibha Singh
+## **Name**: Bibha Singh
 
-# **Address**: Avenue Des Loisirs
+## **Address**: Avenue Des Loisirs
 
-# **Nationality**: Indian
+## **Nationality**: Indian
 
-# **My interest**
+## **My interest**
 
 - Cooking :yum:
 - Coding :computer:
