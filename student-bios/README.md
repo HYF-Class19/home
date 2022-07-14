@@ -12,3 +12,4 @@
 4. Open a pull request to from your branch to the `main` branch and assign a
    coach to review and merge your code
    - Make sure to go through the whole PR checklist and to pass the CI checks
+   - 

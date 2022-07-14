@@ -9,3 +9,5 @@
 + Cooking
 + Coding
 + Singing
+
+Excited to explore IT world :blush:
