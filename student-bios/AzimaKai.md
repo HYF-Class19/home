@@ -1,5 +1,9 @@
-👋 Hi, I’m Azima <br> 👀 I’m interested in many kind of **science** and ofc in
-programming <br> 🌱 I’m currently learning
+# Azima Kaikieva
+
+---
+
+👀 I’m interested in many kind of **science** and ofc in programming <br> 🌱 I’m
+currently learning
 
 ```html
 <h1>Hello HYF</h1>
