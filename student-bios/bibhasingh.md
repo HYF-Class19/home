@@ -1,4 +1,4 @@
-# About me
+# Hello :wave:
 
 #  **Name**: Bibha Singh
 #  **Address**: Avenue Des Loisirs
@@ -6,8 +6,8 @@
 
 # **My interest**
 
-+ Cooking
-+ Coding
-+ Singing
++ Cooking :yum:
++ Coding  :computer:
++ Singing :musical_note:
 
 Excited to explore IT world :blush:
