@@ -1,16 +1,18 @@
-
 # The Story Of My Life
 
 ## Barnabas Jema
 
-I am **Ethiopian** 🇪🇹 , grew up in **Addis 🏠 Ababa**.I am refugee and job seeker in 🇧🇪.
+I am **Ethiopian** 🇪🇹 , grew up in **Addis 🏠 Ababa**.I am refugee and job
+seeker in 🇧🇪.
 
-Even though i had my first test of **OOP** in *Pythone* a couple of years before, i still feel I could have done better. So looking to conquer it in the near future again ⚒️!
+Even though i had my first test of **OOP** in _Pythone_ a couple of years
+before, i still feel I could have done better. So looking to conquer it in the
+near future again ⚒️!
 
 ### lngs am focusing on'!'
 
 - HTML, CSS and the mighty **JS**
-- Shel *Scripting*
+- Shel _Scripting_
 - JQuery
 
- [**Checkout my LinkedIn address**](lsjslslsl)  
+[**Checkout my LinkedIn address**](lsjslslsl)

@@ -6,7 +6,8 @@
      `colevandersWands.md`
    - Go all out! Take a look at this
      [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-     and [emojis list](https://gist.github.com/rxaviers/7360908) for inspiration
+     and [emojis list](https://gist.github.comn/rxaviers/7360908) for
+     inspiration
    - Make sure your code is well-formatted and all linting checks pass
 3. Push your branch to the class repository on GitHub
 4. Open a pull request to from your branch to the `main` branch and assign a
