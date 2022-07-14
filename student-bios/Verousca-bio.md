@@ -14,4 +14,4 @@ I am a Cameroonian living in Belgium. I am an IT student in the beginners stage.
 
 ## LinkedIn
 
-[You can contact me via my LinkedIn profile here.](https://www.linkedin.com/in/verusca-ekema-b75907235/)
+[You can contact me via my LinkedIn profile here.](https://www.linkedin.com/in/verusca-ekema-b75907235/).
