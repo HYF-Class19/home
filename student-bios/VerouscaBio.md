@@ -1,6 +1,11 @@
-# Hey there! I'm Verousca
+# Bio
 
-I am a Cameroonian living in Belgium. I am an IT student in the beginners stage. I have high interest in web development and computer engineering.
+## Name
+
+Hey there! I'm Verousca
+
+I am a Cameroonian living in Belgium. I am an IT student in the beginners stage.
+I have high interest in web development and computer engineering.
 
 ## Hobbies
 
@@ -10,7 +15,7 @@ I am a Cameroonian living in Belgium. I am an IT student in the beginners stage.
 
 ## Photo
 
-![This is a alt text.](images/Verousca_Img.jpeg "This is a sample image.")
+![This is a alt text.](images/Verousca_Img.jpeg 'This is a sample image.')
 
 ## LinkedIn
 
