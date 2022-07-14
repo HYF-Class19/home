@@ -6,7 +6,7 @@
 
 ## **Nationality**: Indian
 
-## **linkedIn**:(#[heading-ids](https://www.linkedin.com/in/bibha-singh-23448423a/))
+## **linkedIn**: [bibha-singh](https://www.linkedin.com/in/bibha-singh-23448423a/)
 
 ## **My interest**
 
