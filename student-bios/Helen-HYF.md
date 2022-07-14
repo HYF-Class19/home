@@ -32,7 +32,9 @@
 | Amharic  | _Fluent_ |
 | Tigrigna | _Fluent_ |
 
-> ### **Motto: “The only limit is your imagination”**
+>
+
+## **Motto: “The only limit is your imagination”**
 
 📫 How to reach me:😉 🤘
 
