@@ -16,8 +16,8 @@ near future again ⚒️!
 - Shel _Scripting_
 - JQuery
 
- <details>
-  <summary>checkout the money i made by Coding!🤑💰</summary>
+<details>
+ <summary>checkout the money i made by Coding!🤑💰</summary>
   
   ![just jocking!](https://media.giphy.com/media/kqZqQB3F4Zv51OnZTA/giphy.gif)
 </details>
