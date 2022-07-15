@@ -1,7 +1,5 @@
 # Introduction
 
-<p>&nbsp;</p>
-
 Hi, I'm Renjani!
 
 ```About me:
@@ -11,20 +9,16 @@ Hi, I'm Renjani!
 - Passionate learner
 ```
 
-<p>&nbsp;</p>
-
 _Hobbies:_
 
 - cooking 🍚🍲🍤
 - reading
 - gardening 🌱🌷🌻
 
-<p>&nbsp;</p>
 
 (Very) Basic Knowledge:
 
 > MySQL, Python, HTML, CSS, PHP
 
-<p>&nbsp;</p>
 
 Find the link here: [Hack Your Future](https://hackyourfuture.be/)
