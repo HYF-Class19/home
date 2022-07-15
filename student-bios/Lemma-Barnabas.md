@@ -17,7 +17,7 @@ near future again ⚒️!
 - JQuery
 
 <details>
- <summary>checkout the money i made by Coding!🤑💰</summary>
+<summary>checkout the money i made by Coding!🤑💰</summary>
   
   ![gotcha!](https://media.giphy.com/media/kqZqQB3F4Zv51OnZTA/giphy.gif)
 </details>
