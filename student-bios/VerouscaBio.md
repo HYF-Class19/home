@@ -15,7 +15,7 @@ I have high interest in web development and computer engineering.
 
 ## Photo
 
-![This is a alt text.](images/Verousca_Img.jpeg 'This is a sample image.')
+![This is a alt text.](/student-bios/images/Verousca_Img.jpeg 'This is a sample image.')
 
 ## LinkedIn
 
