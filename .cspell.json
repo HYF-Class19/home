@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Backrub", "Fedasil", "Filmon", "Photoshop"],
   "ignorePaths": [
     "node_modules/**",
     "student-bios/**",
