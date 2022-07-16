@@ -34,12 +34,10 @@
 
 ---
 
-## my pages
+## my page
 
 <img src="https://www.waldorf100.hamburg/wp-content/uploads/2019/08/instagram-logo-1024x1024.png" width="30" height="30">
 
 [instagram](https://www.instagram.com/podnes_/)
 
 <img src="https://pngimg.com/uploads/telegram/telegram_PNG22.png" width="30" height="30">
-
-[telegram]()
