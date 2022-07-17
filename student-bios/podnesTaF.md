@@ -2,7 +2,7 @@
 
 ## I'm Oleksii Pidnebesnyi
 
-![](https://avatars.githubusercontent.com/u/103833548?s=400&u=9fec99a5b7ca84df566224ee5768a751349d0471&v=4)
+![Alex](https://avatars.githubusercontent.com/u/103833548?s=400&u=9fec99a5b7ca84df566224ee5768a751349d0471&v=4)
 
 ---
 
