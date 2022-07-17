@@ -2,7 +2,7 @@
 
 ## I'm Oleksii Pidnebesnyi
 
-<img src="https://th.bing.com/th/id/OIP.p5aepZh8OpbpDE8YlmVtWgHaHa?pid=ImgDet&rs=1" width="100" height="100">
+![](https://avatars.githubusercontent.com/u/103833548?s=400&u=9fec99a5b7ca84df566224ee5768a751349d0471&v=4)
 
 ---
 
