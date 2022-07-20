@@ -1,4 +1,4 @@
-# Hello :wave:
+# Hello :wave
 
 ## **Name**: Bibha Singh
 
