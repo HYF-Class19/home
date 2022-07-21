@@ -421,9 +421,9 @@ real-world problem they face, then deliver a web app to meet their needs.
 <summary>Gopi's github stats</summary>
 <br>
 
-![galalkoro98 github activity](https://ghchart.rshah.org/Gopiben)
+![Gopiben github activity](https://ghchart.rshah.org/Gopiben)
 
-![galalkoro98 github stats](https://github-readme-stats.vercel.app/api?username=Gopiben&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+![Gopiben github stats](https://github-readme-stats.vercel.app/api?username=Gopiben&show_icons=true&theme=default&hide_title=true&hide_rank=true)
 
 </details>
 
