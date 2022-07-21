@@ -414,6 +414,21 @@ real-world problem they face, then deliver a web app to meet their needs.
 </details>
 <hr style="width:60%;align:center">
 
+| <img src="./admin/assets/avatars/gopiben.jpeg" height="200px" width="200px" alt="Gopiben avatar" /> | <h3 id="Gopiben">Gopi</h3><br>[Gopiben](https://github.com/Gopiben) \| [home page](https://Gopiben.github.io) \| [bio](./student-bios/Gopiben.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AGopiben+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AGopiben+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AGopiben+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AGopiben) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AGopiben) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AGopiben) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AGopiben) |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Gopi's github stats</summary>
+<br>
+
+![galalkoro98 github activity](https://ghchart.rshah.org/Gopiben)
+
+![galalkoro98 github stats](https://github-readme-stats.vercel.app/api?username=Gopiben&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+
+<hr style="width:60%;align:center">
+
 | <img src="./admin/assets/avatars/HaykoDevelop.png" height="200px" width="200px" alt="HaykoDevelop avatar" /> | <h3 id="HaykoDevelop">Hayko</h3><br>[HaykoDevelop](https://github.com/HaykoDevelop) \| [home page](https://HaykoDevelop.github.io) \| [bio](./student-bios/HaykoDevelop.md)<br>[check-ins](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHaykoDevelop+label%3Acheck-in) \| [deliverables](https://github.com/HYF-Class19/home/projects/1?card_filter_query=assignee%3AHaykoDevelop+label%3Adeliverable) \| [retros](https://github.com/HYF-Class19/home/issues/?q=assignee%3AHaykoDevelop+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-Class19/home/issues?q=author%3AHaykoDevelop) \| [assigned](https://github.com/HYF-Class19/home/issues?q=assignee%3AHaykoDevelop) \| [commented](https://github.com/HYF-Class19/home/issues?q=commenter%3AHaykoDevelop) \| [mentioned](https://github.com/HYF-Class19/home/issues?q=mentions%3AHaykoDevelop) |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
