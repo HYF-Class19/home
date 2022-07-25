@@ -2,3 +2,5 @@ node_modules
 github_token
 .DS_Store
 .vscode/settings.json
+.vscode/*
+.history
